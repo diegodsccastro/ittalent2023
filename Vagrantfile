@@ -42,11 +42,11 @@ Vagrant.configure("2") do |config|
 
      apt-get update
      
-     apt-get install nginx
+     apt-get install -y nginx
      
-     apt-get install nano
+     apt-get install -y nano
 
-     apt-get install python3.9
+     apt-get install -y python3.9
      
      apt-get install -y apache2
 
