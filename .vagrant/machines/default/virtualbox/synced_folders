@@ -1,1 +1,0 @@
-{"virtualbox":{"/shared_linux":{"guestpath":"/shared_linux","hostpath":"C:/Users/Diego Castro/DevOps - IT Talent/Práticas síncronas/Desafio usando Vagrant/shared_windows","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Diego Castro/DevOps - IT Talent/Práticas síncronas/Desafio usando Vagrant","disabled":false,"__vagrantfile":true}}}
