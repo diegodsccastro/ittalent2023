@@ -28,12 +28,10 @@ Para implantar o ambiente, siga estas etapas:
 2. Navegue até o diretório onde o arquivo `docker-compose.yml` está localizado.
 
 3. Execute o seguinte comando para criar e iniciar os contêineres em segundo plano:
-
+   
    ```bash
    docker-compose up -d
-
-   ```
-   Após a conclusão da implantação, você pode acessar o WordPress em seu navegador da web em http://localhost:8080.
+   
 
 ## Licença
 Este exemplo é fornecido sob a licença MIT. Sinta-se à vontade para adaptá-lo e usá-lo para seus próprios projetos.
