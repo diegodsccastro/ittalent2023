@@ -32,6 +32,7 @@ Para implantar o ambiente, siga estas etapas:
    ```bash
    docker-compose up -d
 
+   ```
    Após a conclusão da implantação, você pode acessar o WordPress em seu navegador da web em http://localhost:8080.
 
 ## Licença
